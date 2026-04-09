@@ -1,0 +1,9 @@
+{
+  "name": "weiyiacc-anthropic-skills-fork",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Fork of anthropics/skills. Shim for pi-cli discovery.",
+  "pi": {
+    "skills": ["./skills"]
+  }
+}
